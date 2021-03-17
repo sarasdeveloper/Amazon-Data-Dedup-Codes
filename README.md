@@ -21,7 +21,23 @@ Daton has three different Amazon Ads connectors through which we can pull out th
 
 Below are the tables from each AdType which will be helpful in determining the Ads contribution to the overall health of the brand.
 
-![Screenshot (87)](https://user-images.githubusercontent.com/69815945/111442336-4329f280-872e-11eb-87df-17cccd8914ca.png)
+![Screenshot (89)](https://user-images.githubusercontent.com/69815945/111442711-a3209900-872e-11eb-892e-49f3ad21df6a.png)
+
+## Notes
+
+1. In the shared codes, the table names have been given a generic name, please change it according to your requirements. 
+2. These codes can be used in any case which involves multiple records getting pulled from Daton irrespective of the table hierarchy, the base logic remains the same. 
+3. For SponsoredDisplay, the codes remain the same as of SponsoredBrands, please change the table names accordingly.
+
+## Contributions
+
+Additional contributions to this set of codes are most welcome! Please create issues or raise PR's against main branch, if there are any. 
+
+## Resources
+
+- Find everything about our daton connectors [right here](https://docs.sarasanalytics.com/integrations/data-sources).
+- These connectors can help you with replicating the data from different sources across different platforms. 
+- Also, let us know if there is any connector that you need to replicate the data for your requirement, we will take it up with our IT team.
 
 
 
