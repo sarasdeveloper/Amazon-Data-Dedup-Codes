@@ -21,6 +21,9 @@ Daton has three different Amazon Ads connectors through which we can pull out th
 
 Below are the tables from each AdType which will be helpful in determining the Ads contribution to the overall health of the brand.
 
+![Screenshot (87)](https://user-images.githubusercontent.com/69815945/111442336-4329f280-872e-11eb-87df-17cccd8914ca.png)
+
+
 
 
 
