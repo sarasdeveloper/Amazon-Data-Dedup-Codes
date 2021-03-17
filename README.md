@@ -5,11 +5,21 @@ The main focus of this package is to transform the raw amazon data tables with m
 
 [Please refer to this for more information on Fields, tables for Amazon Ads data.](https://docs.sarasanalytics.com/integrations/data-sources/saas-integrations/amazon-ads). [Try looking at this to understand everything about Amazon MWS data.](https://docs.sarasanalytics.com/integrations/data-sources/ecommerce/amazon-mws)
 
-## Commonly-used-Amazon-Ads-Tables
+## Commonly-used-Amazon-MWS-Tables
 
-Below are the commonly used amazon ads tables, from the set of shared codes, which are analytics-ready.
+Below are the commonly used amazon MWS tables, from the set of shared codes, which are analytics-ready. These codes will help you in extracting the Overall sales metrics on different hierarchies of data.
 
 ![Amazon MWS Tables Description](https://user-images.githubusercontent.com/69815945/111434713-e0ccf400-8725-11eb-874c-0477dbfd8a1c.png)
+
+## Commonly-used-Amazon-Ads-Tables
+
+Daton has three different Amazon Ads connectors through which we can pull out the Ads data for each AdType Seperately. 
+-Sponsored Brands
+-Sponsored Display
+-Sponsored Products
+
+Below are the tables from each AdType which will be helpful in finding out the insights from Ads Perspective. 
+
 
 
 
