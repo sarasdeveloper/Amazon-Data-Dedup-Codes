@@ -5,6 +5,17 @@ The main focus of this package is to transform the raw amazon data tables with m
 
 [Please refer to this for more information on Fields, tables for Amazon Ads data.](https://docs.sarasanalytics.com/integrations/data-sources/saas-integrations/amazon-ads). [Try looking at this to understand everything about Amazon MWS data.](https://docs.sarasanalytics.com/integrations/data-sources/ecommerce/amazon-mws)
 
+## Commonly-used-Amazon-Ads-Tables
+
+Below are the commonly used amazon ads tables, from the set of shared codes, which are analytics-ready.
+
+![Amazon MWS Tables Description](https://user-images.githubusercontent.com/69815945/111434713-e0ccf400-8725-11eb-874c-0477dbfd8a1c.png)
+
+
+
+
+
+
 
 
 
